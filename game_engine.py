@@ -33,6 +33,7 @@ def game_loop():
             enemy_stagger_count += 1
     print(enemy_stagger_count)
 
+
 def draw():
     global images
     global toggle_pressed
